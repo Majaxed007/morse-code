@@ -92,17 +92,4 @@ for i in range(len(en_words)):
         correct_answers = answers.append('False')
 
 
-
-
-
 print_statisics()    
-
-# Функция print_ststistics() на основе списка answers =[] выводит [True, False, False, True]....
-#  Всего задачек: 5
-#  Отвечено верно: 2
-#  Отвечено неверно: 2
-
-
-# Вывести статистику с помощью функции print_ststistics()
-
-# Протестировать работу приложения
